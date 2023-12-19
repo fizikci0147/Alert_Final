@@ -25,7 +25,6 @@ public class ALERTCalibrationEngine extends CalibrationEngine {
     private Map<String,CalibrationConstants> globalCalib = null;
     private final IndexedList<DataGroup> dataGroupCal = new IndexedList<DataGroup>(3);
 
-
     public static String PassModule;
 
 
